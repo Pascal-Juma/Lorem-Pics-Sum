@@ -1,8 +1,31 @@
-# React + Vite
+<h1>GET RANDOM PHOTOS(LOREM PICSUM)</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![project-preview](src/assets/Images/preview.png)
 
-Currently, two official plugins are available:
+# 📸 Random Lorem PicSum
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Getting Started
+Random Lorem PicSum is a simple web application that allows users to fetch and display a specified number of random images from 
+
+[Lorem Picsum](https://picsum.photos/). This project is built using **React** and leverages **React Query** for efficient data fetching and state management.
+
+## Features
+- 🖼️ Fetch random images from Lorem Picsum
+- 🔍 Search for a specific number of images
+- ⏳ Display a loading message while fetching images
+- ⚠️ Handle errors gracefully
+- 🎨 Responsive design with a clean UI
+  
+## Usage
+1. Enter the number of random images you want to fetch.
+2. Click on the **Search** button.
+3. The images will be displayed as per your request.
+
+## Technologies Used
+- **React.js** - Frontend framework
+- **React Query** - API data fetching and state management
+- **CSS** - Styling
+- **Lorem Picsum API** - Source for random images
+
+🚀 **Happy Coding!** If you like this project, consider giving it a ⭐ on GitHub
+
